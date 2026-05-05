@@ -1,0 +1,2 @@
+
+This project focuses on designing a Grocery Store Management system using SQL to efficiently manage and organize data related to products, customers, orders, suppliers, and employees. Multiple tables are created with proper relationships to maintain structured data. Using SQL queries such as JOINs, aggregations, and filtering, the data is analyzed to identify sales trends, top customers, product performance, and revenue patterns. The project helps in understanding real-world database management and improves decision-making by providing meaningful business insights.
